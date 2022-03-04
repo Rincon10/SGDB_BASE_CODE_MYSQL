@@ -1,0 +1,2 @@
+# SGDB_BASE_CODE_MYSQL
+Base code of MySQL
